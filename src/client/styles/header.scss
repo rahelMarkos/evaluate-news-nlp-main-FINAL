@@ -1,0 +1,21 @@
+/* Header Styles */
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #01313f;
+  color: #b17a03e9;
+  padding: 10px 20px;
+  height: 60px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+header .nav-l {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+header .nav-r {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
